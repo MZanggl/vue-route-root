@@ -1,5 +1,9 @@
 ## Vue route root
 
+### Prerequisites
+
+**This plugin requires vue-router to be installed!**
+
 ### Installation
 
 > `npm install vue-route-root`
